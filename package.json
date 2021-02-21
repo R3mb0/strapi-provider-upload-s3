@@ -1,0 +1,15 @@
+{
+  "name": "strapi-provider-upload-s3",
+  "version": "0.0.1",
+  "description": "Strapi Upload Provider for AWS using aws-sdk v3",
+  "main": "./lib",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {},
+  "author": "R3mb0",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.6.0"
+  }
+}
